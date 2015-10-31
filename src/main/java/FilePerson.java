@@ -3,7 +3,7 @@
  */
 public class FilePerson {
     /**
-     * IDNum : 440785199507153757
+     * IDNum : xxxxxxxxxxxxxxxxxxx
      * clazz : 13软开1班
      * field : JAVA
      * major : 软件技术
